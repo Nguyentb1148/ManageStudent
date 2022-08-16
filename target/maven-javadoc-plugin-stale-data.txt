@@ -1,0 +1,55 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'/Users/tranbaonguyen/Desktop/ManagerStudent/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ManagerStudent 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ManagerStudent 1.0-SNAPSHOT API'
+com.mycompany.managerstudent.test
+com.mycompany.managerstudent.ManageGrada
+com.mycompany.managerstudent.ManagentOFStudent
+'/Users/tranbaonguyen/Desktop/ManagerStudent/src/main/java/Beginframe.java'
+/Users/tranbaonguyen/Desktop/ManagerStudent/src/main/java/Beginframe.java = 1660622361072
+/Users/tranbaonguyen/Desktop/ManagerStudent/src/main/java/Beginframe.form = 1660622361050
+/Users/tranbaonguyen/Desktop/ManagerStudent/src/main/java = 1660612256429
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/Beginframe.html = 1660624518987
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/tag-search-index.js = 1660624519166
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/overview-tree.html = 1660624519154
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/module-search-index.js = 1660624519166
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/index.html = 1660624519156
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/package-search-index.js = 1660624519166
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/jquery-ui.overrides.css = 1660624519185
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/package-use.html = 1660624519149
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/serialized-form.html = 1660624519138
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/index-all.html = 1660624519172
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/allpackages-index.html = 1660624519165
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/member-search-index.js = 1660624519166
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/copy.svg = 1660624519178
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/script.js = 1660624519178
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/stylesheet.css = 1660624519178
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/overview-summary.html = 1660624519174
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/help-doc.html = 1660624519176
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/package-summary.html = 1660624519087
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/package-tree.html = 1660624519090
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/element-list = 1660624519081
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/allclasses-index.html = 1660624519163
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/type-search-index.js = 1660624519166
+/Users/tranbaonguyen/Desktop/ManagerStudent/target/site/apidocs/search.js = 1660624519179
