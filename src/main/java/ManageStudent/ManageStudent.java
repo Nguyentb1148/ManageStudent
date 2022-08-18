@@ -276,7 +276,7 @@ public class ManageStudent extends javax.swing.JFrame {
 
     private void inputImageMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_inputImageMouseClicked
         // TODO add your handling code here:
-        JFileChooser jfc=new JFileChooser("/Users/tranbaonguyen/Desktop/Image");
+        JFileChooser jfc=new JFileChooser("/Users/tranbaonguyen/Desktop/ManagerStudent/src/main/java/Image/");
         jfc.showOpenDialog(null);
         File file =jfc.getSelectedFile();
         Image img;
@@ -303,6 +303,7 @@ public class ManageStudent extends javax.swing.JFrame {
         inputImage.setText("Image");
         inputImage.setIcon(null);
         stringImage=null;
+       
     }
     private void btnAddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAddActionPerformed
         // TODO add your handling code here:
@@ -352,7 +353,7 @@ public class ManageStudent extends javax.swing.JFrame {
         DefaultTableModel model=(DefaultTableModel) tbStudent.getModel();
         model.setRowCount(0);//clear table
         for (Student sv:myStudentList.getStudentList()) {
-            Object rowData[]=new Object[7];
+            Object[] rowData =new Object[7];
             rowData[0]=sv.getIdPerson();
             rowData[1]=sv.getName();
             rowData[2]=sv.getEmail();
@@ -406,7 +407,7 @@ public class ManageStudent extends javax.swing.JFrame {
        }
        else {
            inputImage.setText("");
-            ImageIcon imageIcon=new ImageIcon(getClass().getResource("/Users/tranbaonguyen/Desktop/Image/"+sv.getImage()));
+            ImageIcon imageIcon=new ImageIcon(getClass().getResource("/Image/"+sv.getImage()));
             Image image=imageIcon.getImage();
             image.getScaledInstance(inputImage.getWidth(),inputImage.getWidth(),0);
             inputImage.setIcon(imageIcon);
